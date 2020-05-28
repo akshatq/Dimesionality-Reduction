@@ -1,2 +1,2 @@
 # Dimesionality-Reduction
-Linear and Non- Linear Dimensionality reduction
+Linear and Non-Linear(ISOMAP algo) Dimensionality reduction
